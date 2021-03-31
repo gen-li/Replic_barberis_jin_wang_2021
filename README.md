@@ -1,15 +1,15 @@
 # Replicate Barberis, Jin, and Wang (2021)
 
 
-##### Description:
+#### Description:
 
-This code replicates parts of the paper "Prospect Theory and Stock Market Anomalies" by Barberis, Jin, and Wang.
-
-
+This code replicates parts of the paper "Prospect Theory and Stock Market Anomalies" by Barberis, Jin, and Wang. I choose the momentum anomaly to replicate in my code. 
 
 
 
-##### Example: 
+
+
+#### Example: 
 
 
 
